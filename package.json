@@ -1,0 +1,20 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "FCC TIME STAMP PROJECT ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FCC",
+    "PROJECT",
+    "TIME",
+    "STAMP"
+  ],
+  "author": "Kashif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
