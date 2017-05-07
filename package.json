@@ -15,6 +15,7 @@
   "author": "Kashif",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "moment": "^2.18.1"
   }
 }
